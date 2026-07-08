@@ -1,13 +1,13 @@
-# Hi 👋, I'm Kalyani Murakonda
+# Hi, I'm Kalyani Murakonda
 
 ### AI & Full Stack Developer | B.Tech CSE (AI & ML) @ SRM University AP
 
-🚀 Passionate about building AI-powered applications, Machine Learning solutions, and Full Stack Web Platforms.
+Passionate about building AI-powered applications, Machine Learning solutions, and Full Stack Web Platforms.
 
-* 🌱 Currently exploring **Generative AI, LLMs, Computer Vision, and Advanced Machine Learning**
-* 💻 Full Stack Developer with experience in **MERN Stack**
-* 🤖 Interested in **Artificial Intelligence, Data Science, and Automation**
-* 🏆 Hackathon Participant | Open Source Learner | Problem Solver
+* Currently exploring **Generative AI, LLMs, Computer Vision, and Advanced Machine Learning**
+* Full Stack Developer with experience in **MERN Stack**
+* Interested in **Artificial Intelligence, Data Science, and Automation**
+* Hackathon Participant | Open Source Learner | Problem Solver
 
 ---
 
@@ -18,6 +18,7 @@
 * GitHub: github.com/murakondakalyani
 * Email: [kalyani_murakonda@srmap.edu.in](mailto:kalyani_murakonda@srmap.edu.in)
 * Personal Email : [kalyanimurakonda2006@gmail.com]
+* LeetCode : [https://leetcode.com/u/_kalyani_6/]
 
 ---
 
