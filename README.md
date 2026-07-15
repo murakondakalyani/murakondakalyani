@@ -11,7 +11,7 @@ Passionate about building AI-powered applications, Machine Learning solutions, a
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/murakonda-kalyani-bb222b289](http://www.linkedin.com/in/murakonda-kalyani-bb222b289)
 * Portfolio: https://murakondakalyani.github.io/MyPortfolio/
@@ -22,7 +22,7 @@ Passionate about building AI-powered applications, Machine Learning solutions, a
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Programming Languages
 
@@ -46,9 +46,9 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📊 Customer Churn Prediction
+## Customer Churn Prediction
 
 **Tech Stack:** Python, Scikit-Learn, XGBoost, Pandas
 
@@ -59,7 +59,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-## 🤖 FeedBackLens GENAI
+## FeedBackLens GENAI
 
 **Tech Stack:** Python, Streamlit, Gemini API, Generative AI
 
@@ -70,7 +70,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-## 🚨 Emergency Response Tool
+## Emergency Response Tool
 
 **Tech Stack:** MERN Stack, MongoDB, Express.js, React.js, Node.js
 
@@ -81,7 +81,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-## 🌍 SENSE SDG Awareness Platform
+## SENSE SDG Awareness Platform
 
 **Tech Stack:** HTML, CSS, JavaScript, Node.js, MongoDB
 
@@ -92,7 +92,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-## 📄 PDF to Audio Converter
+## PDF to Audio Converter
 
 **Tech Stack:** Python, PyPDF2, gTTS, pydub
 
@@ -103,7 +103,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-## 🖼️ Digital Image Processing
+## Digital Image Processing
 
 **Tech Stack:** Python, OpenCV, NumPy
 
@@ -113,7 +113,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-# 💼 Internship Experience
+# Internship Experience
 
 ### Full Stack Developer Intern — Edubot (SRM AP)
 
@@ -135,7 +135,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-# 🏅 Certifications
+# Certifications
 
 * Machine Learning Certification — Coursera
 * NPTEL Certification
@@ -147,7 +147,7 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 * Participant — Amaravati Quantum Valley Hackathon
 * Participant — Hack4Impact Hackathon
@@ -157,10 +157,10 @@ Git • GitHub • VS Code • Postman • Jupyter Notebook
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 Artificial Intelligence • Machine Learning • Generative AI • Full Stack Development • Computer Vision • Data Science • Software Engineering
 
 ---
 
-⭐ “Building intelligent solutions for real-world impact through AI and software engineering.”
+“Building intelligent solutions for real-world impact through AI and software engineering.”
